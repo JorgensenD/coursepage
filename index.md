@@ -22,13 +22,16 @@ title: Intro to R
 ## Resources
 Slides, links and associated files for each day of the course
 ### Day 1
-  ### Slides:
+<details><summary>Expand</summary>
+  
+### Slides:
   - [Introduction to R slides](https://www.reconlearn.org/slides/intro_to_r/intro_to_r)  
   - [Interactive introduction to RStudio](https://www.reconlearn.org/post/practical-intror.html)  
-  ### Relevant sheets:
+### Relevant sheets:
   - [Base R](/cheatsheets/base-r.pdf)  
   - [RStudio](/cheatsheets/rstudio-ide.pdf)  
   - [R syntax](/cheatsheets/syntax.pdf)
+</details>
 
 ### Day 2
 #### Resources
