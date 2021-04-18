@@ -2,8 +2,8 @@
 ## Quick links
 - [Course timetable]()
 - [Zoom link]()
-- [RECON learn](reconlearn.org)
-- [R epidemics consortium](repidemicsconsortium.org)
+- [RECON learn](https://www.reconlearn.org)
+- [R epidemics consortium](https://www.repidemicsconsortium.org)
 - [R cheat sheets]()
 - [code of conduct](https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/)
 
