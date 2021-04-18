@@ -3,3 +3,6 @@ title: Intro to R
 show_downloads: false
 logo: images/logo.png
 description: Course page for RECON MSF introduction to R course April 2021
+markdown: kramdown
+kramdown:
+  parse_block_html: true
