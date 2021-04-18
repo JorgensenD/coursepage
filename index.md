@@ -8,7 +8,7 @@ title: Intro to R
 - [Install instructions](/resources/installation_email.pdf)
 - [RECON learn](https://www.reconlearn.org)
 - [R epidemics consortium](https://www.repidemicsconsortium.org)
-- [R cheat sheets](/cheatsheets/)
+- [R cheat sheets](./cheatsheets/)
 - [code of conduct](https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/)
 
 
