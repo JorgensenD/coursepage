@@ -11,20 +11,14 @@ title: Intro to R
 - [R cheat sheets](https://github.com/JorgensenD/coursepage/tree/gh-pages/cheatsheets)
 - [code of conduct](https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/)
 
-
-## Trainer contact details
-{::options parse_block_html="true" /}
-
-<details>
-  <summary>Expand</summary>
-  
+<div class="info x" title="Trainer contact details" markdown="1">
   David <david.jorgensen13@imperial.ac.uk>  
   Olivia <o.boyd@imperial.ac.uk>  
   Mara <mara.kont17@imperial.ac.uk>  
   Course organiser - Janetta <janetta.skarp13@imperial.ac.uk>  
-</details>
-  
-{::options parse_block_html="false" /}
+</div>
+## Trainer contact details
+
   
 ## Resources
 Slides, links and associated files for each day of the course
