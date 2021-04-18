@@ -21,6 +21,15 @@ Course organiser - Janetta <janetta.skarp13@imperial.ac.uk>
 ## Resources
 Slides, links and associated files for each day of the course
 ### Day 1
-[Introduction to R slides](https://www.reconlearn.org/slides/intro_to_r/intro_to_r#7)
-[Interactive introduction to RStudio](https://www.reconlearn.org/post/practical-intror.html)
+[Introduction to R slides](https://www.reconlearn.org/slides/intro_to_r/intro_to_r)  
+[Interactive introduction to RStudio](https://www.reconlearn.org/post/practical-intror.html)  
 ### Day 2
+[Stegen case study](https://www.reconlearn.org/post/stegen.html)  
+[Importing data in R](https://www.reconlearn.org/slides/slides_bag/data_import/data_import_short.html)  
+[Good practices for reproducibility]()  
+### Day 3
+[Stegen case study](https://www.reconlearn.org/post/stegen.html)  
+[ggplot](https://www.reconlearn.org/slides/slides_bag/ggplot2.html)  
+### Day 4
+[Stegen case study](https://www.reconlearn.org/post/stegen.html)  
+[R4epis](https://r4epis.netlify.app/)  
