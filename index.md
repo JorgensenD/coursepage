@@ -2,6 +2,31 @@
 layout: default
 title: Intro to R
 ---
+<script type="text/javascript">
+$(document).ready(
+  function() {
+    $(".success").addClass("alert alert-success");
+    $(".info").addClass("alert alert-info");
+    $("table").addClass("table table-bordered table-striped");
+});
+</script>
+
+<script type="text/javascript">
+$('p[title], div[title]').each(function () {
+        if ($(this).hasClass('x')) {
+          var randomid = 'collapse_' + (collapse_id_counter++);
+          $(this).wrapInner('<div class="collapse-inner collapse" id="' + randomid + '"></div>').prepend(function () {
+            return '<div class="font-weight-bold collapsed" style="cursor: pointer"  data-toggle="collapse" data-target="#' + randomid + '">'
+              + "<i class='toggler fa mr-2'></i>" + $(this).attr('title') + "</div></div>";
+          });
+        }
+        else {
+          $(this).wrapInner('<div class="no-collapse-inner"></div>')
+            .prepend(function () { return '<div class="font-weight-bold">' + $(this).attr('title') + '</div></div>'; });
+        }
+      });
+</script>
+
 ## Quick links
 - [Course timetable](/resources/workshop_schedule_msf.pdf)
 - [Zoom link]()
