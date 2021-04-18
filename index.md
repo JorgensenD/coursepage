@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<img src="images/logo.png" width="50%" height="50%"/>
 
-You can use the [editor on GitHub](https://github.com/JorgensenD/coursepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Course page for the RECON MSF introduction to R course, April 2021
 
-### Markdown
+## Quick links
+- [Course timetable]()
+- [Zoom link]()
+- [RECON learn](reconlearn.org)
+- [R epidemics consortium](repidemicsconsortium.org)
+- [R cheat sheets]()
+- [code of conduct](https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Trainer contact details
+David <david.jorgensen13@imperial.ac.uk>
 
-# Header 1
-## Header 2
-### Header 3
+Olivia <o.boyd@imperial.ac.uk>
 
-- Bulleted
-- List
+Mara <mara.kont17@imperial.ac.uk>
 
-1. Numbered
-2. List
+Course organiser - Janetta <janetta.skarp13@imperial.ac.uk>
 
-**Bold** and _Italic_ and `Code` text
+## Resources
 
-[Link](url) and ![Image](src)
-```
+### Day 1
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JorgensenD/coursepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Day 2
