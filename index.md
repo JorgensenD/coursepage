@@ -15,26 +15,27 @@ title: Intro to R
 ## Trainer contact details
 <details>
   <summary>Expand</summary>
-   
-David <david.jorgensen13@imperial.ac.uk>  
-Olivia <o.boyd@imperial.ac.uk>  
-Mara <mara.kont17@imperial.ac.uk>  
-Course organiser - Janetta <janetta.skarp13@imperial.ac.uk>  
+  
+  David <david.jorgensen13@imperial.ac.uk>  
+  Olivia <o.boyd@imperial.ac.uk>  
+  Mara <mara.kont17@imperial.ac.uk>  
+  Course organiser - Janetta <janetta.skarp13@imperial.ac.uk>  
 </details>
+   
    
 ## Resources
 Slides, links and associated files for each day of the course
 ### Day 1
 <details>
   <summary>Expand</summary>
-   
-- Slides:
-   - [Introduction to R slides](https://www.reconlearn.org/slides/intro_to_r/intro_to_r)  
-   - [Interactive introduction to RStudio](https://www.reconlearn.org/post/practical-intror.html)  
-- Relevant sheets:
-   - [Base R](/cheatsheets/base-r.pdf)  
-   - [RStudio](/cheatsheets/rstudio-ide.pdf)  
-   - [R syntax](/cheatsheets/syntax.pdf)
+  
+  ### Slides:
+  - [Introduction to R slides](https://www.reconlearn.org/slides/intro_to_r/intro_to_r)  
+  - [Interactive introduction to RStudio](https://www.reconlearn.org/post/practical-intror.html)  
+  ### Relevant sheets:
+  - [Base R](/cheatsheets/base-r.pdf)  
+  - [RStudio](/cheatsheets/rstudio-ide.pdf)  
+  - [R syntax](/cheatsheets/syntax.pdf)
 </details>
 
 ### Day 2
