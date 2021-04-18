@@ -2,30 +2,6 @@
 layout: default
 title: Intro to R
 ---
-<script type="text/javascript">
-$(document).ready(
-  function() {
-    $(".success").addClass("alert alert-success");
-    $(".info").addClass("alert alert-info");
-    $("table").addClass("table table-bordered table-striped");
-});
-</script>
-
-<script type="text/javascript">
-$('p[title], div[title]').each(function () {
-        if ($(this).hasClass('x')) {
-          var randomid = 'collapse_' + (collapse_id_counter++);
-          $(this).wrapInner('<div class="collapse-inner collapse" id="' + randomid + '"></div>').prepend(function () {
-            return '<div class="font-weight-bold collapsed" style="cursor: pointer"  data-toggle="collapse" data-target="#' + randomid + '">'
-              + "<i class='toggler fa mr-2'></i>" + $(this).attr('title') + "</div></div>";
-          });
-        }
-        else {
-          $(this).wrapInner('<div class="no-collapse-inner"></div>')
-            .prepend(function () { return '<div class="font-weight-bold">' + $(this).attr('title') + '</div></div>'; });
-        }
-      });
-</script>
 
 ## Quick links
 - [Course timetable](/resources/workshop_schedule_msf.pdf)
@@ -36,23 +12,16 @@ $('p[title], div[title]').each(function () {
 - [R cheat sheets](https://github.com/JorgensenD/coursepage/tree/gh-pages/cheatsheets)
 - [code of conduct](https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/)
 
-<div class="info x" title="Trainer contact details" markdown="1">
+## Trainer contact details
   David <david.jorgensen13@imperial.ac.uk>  
   Olivia <o.boyd@imperial.ac.uk>  
   Mara <mara.kont17@imperial.ac.uk>  
   Course organiser - Janetta <janetta.skarp13@imperial.ac.uk>  
-</div>
-## Trainer contact details
 
   
 ## Resources
 Slides, links and associated files for each day of the course
 ### Day 1
-{::options parse_block_html="true" /}
-
-<details>
-  <summary>Expand</summary>
-  
   ### Slides:
   - [Introduction to R slides](https://www.reconlearn.org/slides/intro_to_r/intro_to_r)  
   - [Interactive introduction to RStudio](https://www.reconlearn.org/post/practical-intror.html)  
@@ -60,9 +29,6 @@ Slides, links and associated files for each day of the course
   - [Base R](/cheatsheets/base-r.pdf)  
   - [RStudio](/cheatsheets/rstudio-ide.pdf)  
   - [R syntax](/cheatsheets/syntax.pdf)
-</details>
-
-{::options parse_block_html="false" /}
 
 ### Day 2
 #### Resources
