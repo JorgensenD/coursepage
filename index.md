@@ -33,8 +33,7 @@ Slides, links and associated files for each day of the course
   - [R syntax](/cheatsheets/syntax.pdf)
 </details>
 
-  
-  
+` `  
 ### Day 2
 <details><summary>Expand</summary>
 
@@ -50,7 +49,7 @@ Slides, links and associated files for each day of the course
 - [Markdown 2](/cheatsheets/rmarkdown-reference.pdf)
 </details>
 
-  
+` `  
 ### Day 3
 <details><summary>Expand</summary>
 
@@ -62,7 +61,7 @@ Slides, links and associated files for each day of the course
 - [ggplot](/cheatsheets/data-visualization-2.1.pdf)
 </details>
 
-  
+` `  
 ### Day 4
 <details><summary>Expand</summary>
 
@@ -73,4 +72,3 @@ Slides, links and associated files for each day of the course
 - [Cartography](/cheatsheets/cartography.pdf)
 - [Leaflet](/cheatsheets/leaflet.pdf)
 </details>
-
