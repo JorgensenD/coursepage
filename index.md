@@ -13,6 +13,8 @@ title: Intro to R
 
 
 ## Trainer contact details
+{::options parse_block_html="true" /}
+
 <details>
   <summary>Expand</summary>
   
@@ -21,11 +23,14 @@ title: Intro to R
   Mara <mara.kont17@imperial.ac.uk>  
   Course organiser - Janetta <janetta.skarp13@imperial.ac.uk>  
 </details>
-   
-   
+  
+{::options parse_block_html="false" /}
+  
 ## Resources
 Slides, links and associated files for each day of the course
 ### Day 1
+{::options parse_block_html="true" /}
+
 <details>
   <summary>Expand</summary>
   
@@ -37,6 +42,8 @@ Slides, links and associated files for each day of the course
   - [RStudio](/cheatsheets/rstudio-ide.pdf)  
   - [R syntax](/cheatsheets/syntax.pdf)
 </details>
+
+{::options parse_block_html="false" /}
 
 ### Day 2
 #### Resources
