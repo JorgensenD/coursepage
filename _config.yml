@@ -1,3 +1,4 @@
 theme: jekyll-theme-tactile
-title: <img src="images/logo.png" width="50%" height="50%"/>
+title: Intro to R
+logo: <img src="images/logo.png" width="50%" height="50%"/>
 description: Course page for RECON MSF introduction to R course April 2021
