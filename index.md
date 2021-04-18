@@ -5,7 +5,7 @@ title: Intro to R
 
 ## Quick links
 - [Course timetable](/resources/workshop_schedule_msf.pdf)
-- [Zoom link]()
+- [Zoom link](https://us02web.zoom.us/j/89596320569?pwd=SUl5eGtybDVQb3ZXQzhPc2JsTWtRdz09)
 - [Install instructions](/resources/installation_email.pdf)
 - [RECON learn](https://www.reconlearn.org)
 - [R epidemics consortium](https://www.repidemicsconsortium.org)
