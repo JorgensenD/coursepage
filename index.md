@@ -13,47 +13,55 @@ title: Intro to R
 
 
 ## Trainer contact details
+<details>
+  <summary>Expand</summary>
+   
 David <david.jorgensen13@imperial.ac.uk>  
 Olivia <o.boyd@imperial.ac.uk>  
 Mara <mara.kont17@imperial.ac.uk>  
 Course organiser - Janetta <janetta.skarp13@imperial.ac.uk>  
-
+</details>
+   
 ## Resources
 Slides, links and associated files for each day of the course
 ### Day 1
-   #### Slides
-   [Introduction to R slides](https://www.reconlearn.org/slides/intro_to_r/intro_to_r)  
-   [Interactive introduction to RStudio](https://www.reconlearn.org/post/practical-intror.html)  
-   #### Relevant sheets
-   [Base R](/cheatsheets/base-r.pdf)  
-   [RStudio](/cheatsheets/rstudio-ide.pdf)  
-   [R syntax](/cheatsheets/syntax.pdf)
+<details>
+  <summary>Expand</summary>
+   
+- Slides:
+   - [Introduction to R slides](https://www.reconlearn.org/slides/intro_to_r/intro_to_r)  
+   - [Interactive introduction to RStudio](https://www.reconlearn.org/post/practical-intror.html)  
+- Relevant sheets:
+   - [Base R](/cheatsheets/base-r.pdf)  
+   - [RStudio](/cheatsheets/rstudio-ide.pdf)  
+   - [R syntax](/cheatsheets/syntax.pdf)
+</details>
+
 ### Day 2
-   #### Resources
-   [Stegen case study](https://www.reconlearn.org/post/stegen.html)  
-   #### Slides
-   [Importing data in R](https://www.reconlearn.org/slides/slides_bag/data_import/data_import_short.html)  
-   [Good practices for reproducibility]()  
-   #### Relevant sheets
-   [Data import](/cheatsheets/data-import.pdf)  
-   [Data transformation](/cheatsheets/data-transformation.pdf)  
-   [Markdown 1](/cheatsheets/rmarkdon-2.0.pdf)
-   [Markdown 2](/cheatsheets/rmarkdown-reference.pdf)
+#### Resources
+[Stegen case study](https://www.reconlearn.org/post/stegen.html)  
+#### Slides
+[Importing data in R](https://www.reconlearn.org/slides/slides_bag/data_import/data_import_short.html)  
+[Good practices for reproducibility]()  
+#### Relevant sheets
+[Data import](/cheatsheets/data-import.pdf)  
+[Data transformation](/cheatsheets/data-transformation.pdf)  
+[Markdown 1](/cheatsheets/rmarkdon-2.0.pdf)
+[Markdown 2](/cheatsheets/rmarkdown-reference.pdf)
 ### Day 3
-   #### Resources
-   [Stegen case study](https://www.reconlearn.org/post/stegen.html)  
-   #### Slides
-   [ggplot](https://www.reconlearn.org/slides/slides_bag/ggplot2.html)  
-   #### Relevant sheets
-   [ggplot](/cheatsheets/data-visualization-2.1.pdf)
+#### Resources
+[Stegen case study](https://www.reconlearn.org/post/stegen.html)  
+#### Slides
+[ggplot](https://www.reconlearn.org/slides/slides_bag/ggplot2.html)  
+#### Relevant sheets
+[ggplot](/cheatsheets/data-visualization-2.1.pdf)
 
 ### Day 4
-   #### Resources
-   [Stegen case study](https://www.reconlearn.org/post/stegen.html)  
-   [R4epis](https://r4epis.netlify.app/)  
-
-   #### Mapping with R
-   [Cartography](/cheatsheets/cartography.pdf)
-   [Leaflet](/cheatsheets/leaflet.pdf)
+#### Resources
+[Stegen case study](https://www.reconlearn.org/post/stegen.html)  
+[R4epis](https://r4epis.netlify.app/)  
+#### Mapping with R
+[Cartography](/cheatsheets/cartography.pdf)
+[Leaflet](/cheatsheets/leaflet.pdf)
 
 
