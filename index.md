@@ -21,5 +21,6 @@ Course organiser - Janetta <janetta.skarp13@imperial.ac.uk>
 ## Resources
 Slides, links and associated files for each day of the course
 ### Day 1
-
+[Introduction to R slides](https://www.reconlearn.org/slides/intro_to_r/intro_to_r#7)
+[Interactive introduction to RStudio](https://www.reconlearn.org/post/practical-intror.html)
 ### Day 2
