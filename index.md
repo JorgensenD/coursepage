@@ -1,7 +1,3 @@
-<img src="images/logo.png" width="50%" height="50%"/>
-
-
-Course page for the RECON MSF introduction to R course, April 2021
 
 ## Quick links
 - [Course timetable]()
