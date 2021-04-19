@@ -41,12 +41,13 @@ Slides, links and associated files for each day of the course
 [Stegen case study](https://www.reconlearn.org/post/stegen.html)  
 ### Slides
 - [Importing data in R](https://www.reconlearn.org/slides/slides_bag/data_import/data_import_short.html)  
-- [Good practices for reproducibility]()  
+- [Good practices for reproducibility](/resources/Reproducible%20statistical%20analysis%20with%20R.pdf)  
 ### Relevant sheets
 - [Data import](/cheatsheets/data-import.pdf)  
 - [Data transformation](/cheatsheets/data-transformation.pdf)  
 - [Markdown 1](/cheatsheets/rmarkdown-2.0.pdf)
 - [Markdown 2](/cheatsheets/rmarkdown-reference.pdf)
+- [Golden rules for reproducibility](/resources/golden_rules.html)
 </details>
 
 ` `  
