@@ -45,7 +45,7 @@ Slides, links and associated files for each day of the course
 ### Relevant sheets
 - [Data import](/cheatsheets/data-import.pdf)  
 - [Data transformation](/cheatsheets/data-transformation.pdf)  
-- [Markdown 1](/cheatsheets/rmarkdon-2.0.pdf)
+- [Markdown 1](/cheatsheets/rmarkdown-2.0.pdf)
 - [Markdown 2](/cheatsheets/rmarkdown-reference.pdf)
 </details>
 
