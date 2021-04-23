@@ -11,13 +11,13 @@ title: Intro to R
 - [R epidemics consortium](https://www.repidemicsconsortium.org)
 - [R cheat sheets](https://github.com/JorgensenD/coursepage/tree/gh-pages/cheatsheets)
 - [code of conduct](https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/)
+- [course feedback form](https://docs.google.com/forms/d/1pRj0_adFue8KwQSJINtWgH61FWdGMtE5Usmh-TvoWxA/edit)
 
 ## Trainer contact details
   David <david.jorgensen13@imperial.ac.uk>  
   Olivia <o.boyd@imperial.ac.uk>  
   Mara <mara.kont17@imperial.ac.uk>  
   Course organiser - Janetta <janetta.skarp13@imperial.ac.uk>  
-
   
 ## Resources
 Slides, links and associated files for each day of the course
@@ -25,6 +25,7 @@ Slides, links and associated files for each day of the course
 <details><summary>Expand</summary>
   
 ### Slides:
+  - [Why use R?](https://www.reconlearn.org/slides/why-r/why-r.html)
   - [Introduction to R slides](https://www.reconlearn.org/slides/intro_to_r/intro_to_r)  
   - [Interactive introduction to RStudio](https://www.reconlearn.org/post/practical-intror.html)  
 ### Relevant sheets:
