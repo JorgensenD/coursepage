@@ -25,6 +25,7 @@ Slides, links and associated files for each day of the course
 <details><summary>Expand</summary>
   
 ### Slides:
+  - [Course expectations](/resources/CourseExpectations)
   - [Why use R?](https://www.reconlearn.org/slides/why-r/why-r.html)
   - [Introduction to R slides](https://www.reconlearn.org/slides/intro_to_r/intro_to_r)  
   - [Interactive introduction to RStudio](https://www.reconlearn.org/post/practical-intror.html)  
