@@ -25,7 +25,7 @@ Slides, links and associated files for each day of the course
 <details><summary>Expand</summary>
   
 ### Slides:
-  - [Course expectations](/resources/CourseExpectations)
+  - [Course expectations](/resources/CourseExpectations.pdf)
   - [Why use R?](https://www.reconlearn.org/slides/why-r/why-r.html)
   - [Introduction to R slides](https://www.reconlearn.org/slides/intro_to_r/intro_to_r)  
   - [Interactive introduction to RStudio](https://www.reconlearn.org/post/practical-intror.html)  
@@ -33,6 +33,9 @@ Slides, links and associated files for each day of the course
   - [Base R](/cheatsheets/base-r.pdf)  
   - [RStudio](/cheatsheets/rstudio-ide.pdf)  
   - [R syntax](/cheatsheets/syntax.pdf)
+### Other resources
+  - [Basic coding in R](https://r4ds.had.co.nz/workflow-basics.html)
+  - [Finding your way in RStudio - Princeton](https://dss.princeton.edu/training/RStudio101.pdf)
 </details>
 
 ` `  
