@@ -36,6 +36,7 @@ Slides, links and associated files for each day of the course
 ### Other resources
   - [Basic coding in R](https://r4ds.had.co.nz/workflow-basics.html)
   - [Finding your way in RStudio - Princeton](https://dss.princeton.edu/training/RStudio101.pdf)
+  - [Intro to R code](/resorces/intro_RStudio_day1.R)
 </details>
 
 ` `  
@@ -65,6 +66,10 @@ Slides, links and associated files for each day of the course
 - [ggplot](https://www.reconlearn.org/slides/slides_bag/ggplot2.html)  
 ### Relevant sheets
 - [ggplot](/cheatsheets/data-visualization-2.1.pdf)
+### Other resources
+- [ggplot intro](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
+- [Customising ggplot](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
+- [ggplot geoms](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 </details>
 
 ` `  
@@ -77,4 +82,25 @@ Slides, links and associated files for each day of the course
 ### Mapping with R
 - [Cartography](/cheatsheets/cartography.pdf)
 - [Leaflet](/cheatsheets/leaflet.pdf)
+- [Mapping walkthrough](https://r-spatial.org/r/2018/10/25/ggplot2-sf.html)
+</details>
+
+### Advanced topics
+<details><summary>Expand</summary>
+### dplyr
+- [dplyr slides]()
+- [dplyr exercises]()
+
+### Rmarkdown
+- [Example Markdown pdf]()
+- [Markdown code]()
+
+### ggplot2
+- [ggplot intro](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
+- [Customising ggplot](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
+- [ggplot geoms](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
+
+### Mapping in R
+- [Mapping walkthrough](https://r-spatial.org/r/2018/10/25/ggplot2-sf.html)
+
 </details>
