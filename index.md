@@ -69,7 +69,7 @@ Slides, links and associated files for each day of the course
 ### Other resources
 - [ggplot intro](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
 - [Customising ggplot](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
-- [ggplot geoms](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
+- [ggplot geometries](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 </details>
 
 ` `  
