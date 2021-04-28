@@ -95,7 +95,7 @@ Slides, links and associated files for each day of the course
 
 ### dplyr
 - [dplyr slides](/resources/smartR_dplyr_workshop.pptx)
-- [dplyr exercises](/resorces/practical2.R)
+- [dplyr exercises](/resources/practical2.R)
 - [dplyr answers](/resources/practical2_answers.R)
 
 ### ggplot2
