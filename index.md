@@ -89,13 +89,15 @@ Slides, links and associated files for each day of the course
 ` `  
 ### Advanced topics
 <details><summary>Expand</summary>
+
 ### dplyr
-- [dplyr slides]()
-- [dplyr exercises]()
+- [dplyr slides](/resources/smartR_dplyr_workshop.pptx)
+- [dplyr exercises](/resorces/practical2.R)
+- [dplyr answers](/resources/practical2_answers.R)
 
 ### Rmarkdown
-- [Example Markdown pdf]()
-- [Markdown code]()
+- [Example Markdown pdf](/resources/intro_markdown.pdf)
+- [Markdown code download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/JorgensenD/coursepage/blob/gh-pages/resources/intro_markdown.Rmd)
 
 ### ggplot2
 - [ggplot intro](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
