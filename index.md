@@ -77,6 +77,9 @@ Slides, links and associated files for each day of the course
 ### Day 4
 <details><summary>Expand</summary>
 
+### Rmarkdown
+- [Example Markdown pdf](/resources/intro_markdown.pdf)
+- [Markdown code zip](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/JorgensenD/coursepage/blob/gh-pages/resources/intro_markdown.Rmd)
 ### Resources
 - [Stegen case study](https://www.reconlearn.org/post/stegen.html)  
 - [R4epis](https://r4epis.netlify.app/)  
@@ -95,10 +98,6 @@ Slides, links and associated files for each day of the course
 - [dplyr exercises](/resorces/practical2.R)
 - [dplyr answers](/resources/practical2_answers.R)
 
-### Rmarkdown
-- [Example Markdown pdf](/resources/intro_markdown.pdf)
-- [Markdown code download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/JorgensenD/coursepage/blob/gh-pages/resources/intro_markdown.Rmd)
-
 ### ggplot2
 - [ggplot intro](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
 - [Customising ggplot](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
@@ -106,5 +105,7 @@ Slides, links and associated files for each day of the course
 
 ### Mapping in R
 - [Mapping walkthrough](https://r-spatial.org/r/2018/10/25/ggplot2-sf.html)
+
+There are also other case studies available on [reconlearn.org](https://www.reconlearn.org/)
 
 </details>
