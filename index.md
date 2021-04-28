@@ -62,8 +62,9 @@ Slides, links and associated files for each day of the course
 
 ### Resources
 - [Stegen case study](https://www.reconlearn.org/post/stegen.html)  
-### Slides
 - [ggplot walkthrough](/resources/ggplot_walkthrough.html)
+### Slides
+- [ggplot basics](https://www.reconlearn.org/slides/slides_bag/ggplot2.html)
 ### Relevant sheets
 - [ggplot](/cheatsheets/data-visualization-2.1.pdf)
 ### Other resources
