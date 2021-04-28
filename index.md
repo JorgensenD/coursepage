@@ -78,8 +78,8 @@ Slides, links and associated files for each day of the course
 <details><summary>Expand</summary>
 
 ### Rmarkdown
-- [Example Markdown pdf](/resources/intro_markdown.pdf)
-- [Markdown code zip](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/JorgensenD/coursepage/blob/gh-pages/resources/intro_markdown.Rmd)
+- [Example RMarkdown pdf](/resources/intro_markdown.pdf)
+- [Example RMarkdown code](/resources/intro_markdown.Rmd)
 ### Resources
 - [Stegen case study](https://www.reconlearn.org/post/stegen.html)  
 - [R4epis](https://r4epis.netlify.app/)  
