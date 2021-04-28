@@ -85,6 +85,7 @@ Slides, links and associated files for each day of the course
 - [Mapping walkthrough](https://r-spatial.org/r/2018/10/25/ggplot2-sf.html)
 </details>
 
+` `  
 ### Advanced topics
 <details><summary>Expand</summary>
 ### dplyr
