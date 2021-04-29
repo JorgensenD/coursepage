@@ -11,7 +11,7 @@ title: Intro to R
 - [R epidemics consortium](https://www.repidemicsconsortium.org)
 - [R cheat sheets](https://github.com/JorgensenD/coursepage/tree/gh-pages/cheatsheets)
 - [code of conduct](https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/)
-- [course feedback form](https://docs.google.com/forms/d/1pRj0_adFue8KwQSJINtWgH61FWdGMtE5Usmh-TvoWxA/edit)
+- [course feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdlAI1QIsaV1YlVbBxBWhw_mMzGK-UPFhzV7Gt0xxMxHDf1og/viewform?usp=sf_link)
 
 ## Trainer contact details
   David <david.jorgensen13@imperial.ac.uk>  
